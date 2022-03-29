@@ -3,6 +3,8 @@
 #
 print("Hello World in team leader server")
 
+print("Update in local [Jinwon, A]")
+
 print("Update in local [Donggeon, B]")
 
 print("Update in local [Seonghyun, C]")
